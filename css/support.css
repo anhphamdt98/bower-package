@@ -22,3 +22,8 @@
 .edit-avatar-img {
     max-width: 190px;   
 }
+
+.style-footer {
+    position: absolute;
+    bottom: 0;
+}
