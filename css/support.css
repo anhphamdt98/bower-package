@@ -34,3 +34,11 @@
     height: 30px;
     padding-top: 4px;
 }
+
+.user-list{
+    margin-bottom: 30px;
+}
+
+.follower-image{
+    margin-right: -50px;
+}
