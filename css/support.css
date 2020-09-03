@@ -1,13 +1,18 @@
-.layout-comment{
+.layout-comment {
     margin-left:50px;
 }
 
-.layout-avatar{
+.layout-avatar {
     margin-left:14px;
 }
 
-.layout-comment-input{
-    padding-left:24px;
+.layout-comment-input {
+    padding-left:20px;
+}
+
+.comment-input-style {
+    width: 416px;
+    height: 35px;  
 }
 
 .caption {
