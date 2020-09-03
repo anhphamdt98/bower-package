@@ -23,7 +23,7 @@
     max-width: 480px;
     max-height: 310px;
     height: auto; 
-    width: 100%;
+    width: auto;
 }
 
 .media-layouts {
