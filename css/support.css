@@ -20,8 +20,15 @@
 }
 
 .media-styles {
+    max-width: 480px;
+    max-height: 310px;
     height: auto; 
-    width: auto
+    width: 100%;
+}
+
+.media-layouts {
+    max-width: 485px;
+    max-height: 315px;
 }
 
 .edit-avatar-img {
