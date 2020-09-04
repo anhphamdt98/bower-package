@@ -38,7 +38,7 @@
 }
 
 .btn-edit-avt {
-    display: none;   
+    display: none !important;   
 }
 
 .info-style {
