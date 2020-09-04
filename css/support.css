@@ -31,7 +31,18 @@
 }
 
 .edit-avatar-img {
-    max-width: 190px;   
+    border-radius: 50%;
+    width: 190px;
+    height: 190px;
+    margin-left: 105px;
+}
+
+.btn-edit-avt {
+    display: none;   
+}
+
+.info-style {
+    margin-left: -35px;
 }
 
 .style-footer {
